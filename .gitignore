@@ -1,0 +1,11 @@
+.idea
+.vertx
+build
+.directory
+
+config.json
+
+/*.jar
+smart_Tootbrush/build
+smart_Tootbrush/.gradle
+smart_Tootbrush/.idea
